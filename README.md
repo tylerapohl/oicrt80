@@ -1,2 +1,2 @@
 # oicrt80
-micro-controller with z80 core in VHDL
+micro-controller with t80 core in VHDL
